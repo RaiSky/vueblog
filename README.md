@@ -1,4 +1,4 @@
-# blog-frontend
+# my-blog vue project
 
 ## Project setup
 ```
